@@ -8,7 +8,7 @@
 	</parent>
 	<groupId>services.traveltron</groupId>
 	<artifactId>ndc</artifactId>
-	<version>0.1.0</version>
+	<version>16.2</version>
 	<dependencies>
 		<!--<dependency>-->
 			<!--<groupId>org.jvnet.jaxb2_commons</groupId>-->
